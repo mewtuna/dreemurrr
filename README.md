@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/c6f4c531a844c1e8cd715ee76dfd597f/a502d63b9aa9a157-f6/s1280x1920/9467739264d5185ba49c2b6bb7eec41c2c977f87.pnj" width="340" align="left" alt="dreeee">
+<img src="https://i.ibb.co/gZ2zX0dP/tumblr-c6f4c531a844c1e8cd715ee76dfd597f-94677392-1280.png" width="340" align="left" alt="dreeee">
 
  
 <br>
@@ -13,6 +13,11 @@
     </tr>
   </table>
 
-  <img src="https://64.media.tumblr.com/76f511534cc7a75b01561261f56e77ea/9fbde1af423c171e-da/s2048x3072/41b32e0ad5f7dc5a85a61258be6dc6f9a2e6916f.pnj" with=400 align="left" alt="dreeee">
+  <img src="https://i.ibb.co/gMj89KvB/output-onlinepngtools.png" width=575 align="left" alt="dreeee">
 
-  https://64.media.tumblr.com/db3dc22d3415afaebb6d8b894c8fa18e/5dcf61b079138f7f-4d/s1280x1920/2ad8d77ce89794cdc6055b99fc31ec7ff6faa4d3.pnj
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+  ser
+  
+  <div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31374auufhmdwvnklou5a3aykoa4&cover_image=false&theme=novatorem&show_offline=true&background_color=c9c15e&interchange=false&profanity=false&bar_color=8b894c&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31374auufhmdwvnklou5a3aykoa4&redirect=true)
